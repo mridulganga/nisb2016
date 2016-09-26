@@ -24,8 +24,8 @@
                         <span class="caret"></span>
                       </a>
                       <ul class="dropdown-menu" aria-labelledby="dLabel">
-                        <li class="menuItem"><a href="#screen">Women in Engineering</a></li>
-						<li class="menuItem"><a href="#screen">Computer Society</a></li>
+                        <li class="menuItem"><a href="#screen">WIE</a></li>
+						<li class="menuItem"><a href="#screen">CS</a></li>
 						<li class="menuItem"><a href="#screen">Focus Group</a></li>
                       </ul>
                     </li>
